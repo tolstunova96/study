@@ -1,0 +1,3 @@
+create view as
+select top 50*
+from employees
