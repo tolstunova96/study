@@ -1,3 +1,4 @@
 create view 111 as
 select top 20*
 from department
+where 1=1 and 1d=3
